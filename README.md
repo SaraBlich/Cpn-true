@@ -6,6 +6,15 @@ Cpn-true Company Search allows fetching table of companies from given API. It's 
 ## Used technologies
 Cpn-true Company Search was created in React.js enviroment. React provides fluent dataflow, which were obligatory within two APIs provided. As it was decided not to use any librares, whole styling were made with simple css. Logo was provided with GIMP graphical programme (.png as some problems occured with .svg image).
 
-## Alghoritms in use
-#`Filtered company table`
+- React 16.13.1,
+- CSS3,
+- GIMP 2.10.4,
+
+To run the Cpn-true Company Search clone repository files to an empty chosen folder. Enter the filder via console (ex. 'Anaconda Prompt') and simply type `npm start`. 
+
+## Alghoritms or methods in use
+- FilteredCompanyTable.js
+
+
+
 
