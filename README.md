@@ -6,6 +6,7 @@
 * [Setup](#setup)
 * [Site](#site)
 * [To-do](#to-do)
+* [Contact](#contact)
 
 ## Description
 Cpn-true Company Search allows fetching table of companies from given API. It's displayed in the center of aplication in easy and transparent manner. Table contains columns of id, name, city, total income and average income columns. Table is provided with headers, that allows the user to sort the table by the given column. Order may be changed to descending or ascending by clicking on the header. As the database consists of many records, also <i>Search</i> input were provided. It allows to sort data by number or text. Aplication is responsive - works as well with smaller screens as with the big ones.
@@ -27,6 +28,12 @@ The aplication is fully responsive - it works well with computers, tablets and m
 Two viewport units are available within the css code:
 - <b>vw:</b> viewport width,
 - <b>vh:</b> viewport height.
+
+Big screen devices:
+[!Big screen](https://github.com/SaraBlich/Cpn-true/blob/master/full-size.jpg)
+
+Small screen devices: 
+[!Small screen](https://github.com/SaraBlich/Cpn-true/blob/master/mobile.jpg)
 
 
 ## To-do
