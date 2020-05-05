@@ -1,4 +1,4 @@
-# Cpn-true [!Cpn-true app logo](https://github.com/SaraBlich/Cpn-true/public/SB.png)
+# Cpn-true [!Cpn-true app logo](https://github.com/SaraBlich/Cpn-true/blob/master/public/SB.png)
 
 ## Table of contents
 * [Description](#description)
@@ -22,8 +22,20 @@ Cpn-true Company Search was created in React.js enviroment. React provides fluen
 To run the Cpn-true Company Search clone repository files to an empty chosen folder. Enter the folder via console (ex. 'Anaconda Prompt') by comand `cd ./foldername`, where foldername is the name of your new created folder and simply type `npm start`. 
 
 ## Site
+The aplication is fully responsive - it works well with computers, tablets and mobiles. Responsitivity issue were solved with usual 'vw'. 1 viewport width (vw) is equal to 1% of the viewport’s width. The units differ from percentages because they are always relative to the viewport, whereas a percentage is relative to the element’s parent container.
+
+Two viewport units are available within the css code:
+- <b>vw:</b> viewport width,
+- <b>vh:</b> viewport height.
+
 
 ## To-do
+- Fix problems with comapnies database fetch efficency,
+- Last column (some bugs)
+
+## Contact
+email: s.blich@gmail.com
+phone: 519188514
 
 
 
