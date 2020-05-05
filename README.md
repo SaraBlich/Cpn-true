@@ -38,7 +38,7 @@ Small screen devices:
 
 ## To-do
 - Fix problems with comapnies database fetch efficency,
-- Last column (some bugs)
+- Last column (some bugs appeared)
 
 ## Contact
 email: s.blich@gmail.com <br/>
