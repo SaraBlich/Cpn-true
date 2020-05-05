@@ -43,8 +43,3 @@ Small screen devices:
 ## Contact
 email: s.blich@gmail.com <br/>
 phone: 519188514
-
-
-
-
-
