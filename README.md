@@ -1,4 +1,4 @@
-# Cpn-true [!Cpn-true app logo](SB.png)
+# Cpn-true [!Cpn-true app logo](.public/SB.png)
 
 ## Table of contents
 * [Description](#description)
