@@ -41,7 +41,7 @@ Small screen devices:
 - Last column (some bugs)
 
 ## Contact
-email: s.blich@gmail.com
+email: s.blich@gmail.com <br/>
 phone: 519188514
 
 
