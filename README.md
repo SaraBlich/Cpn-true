@@ -40,9 +40,9 @@ Small screen devices:
 Cpn-true Company Search has the fundamental component App.js rendered in index.js. In the App component is rendered <b>FilteredCompanyTable</b> component, which includes main functionality of the whole application. This is the component that provides data (fetching raw data in fetch method and managing data as well) and state handling, sorting (sorting javascript method) and partly searching within the search input. In the FilteredCompanyTable is rendered <b>SearchBar</b> and <b>CompanyRow</b>. SearchBar provides event data flowing from search input to state in FilteredCompanyTable, where its handled (filter javascript method). CompanyRow main role is displaying the table with already managed data and changing the state of <i>orderBy</i>, which handled by which column should the column be sorted by. 
 
 - App.js
-  - FilteredCompanyTable
-    -SearchBar
-    -CompanyRow
+  - FilteredCompanyTable:
+      -SearchBar
+      -CompanyRow
 
 ## To-do
 - Fix problems with comapnies database fetch efficency,
