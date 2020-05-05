@@ -1,4 +1,4 @@
-# Cpn-true [!Cpn-true app logo]('https://github.com/SaraBlich/Cpn-true/blob/master/public/SB.png')
+# Cpn-true [!Cpn-true app logo](SB.png)
 
 ## Table of contents
 * [Description](#description)
