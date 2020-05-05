@@ -1,4 +1,4 @@
-# Cpn-true
+# Cpn-true [!Cpn-true app logo](https://github.com/SaraBlich/Cpn-true/blob/master/public/SB.png)
 
 ## Table of contents
 * [Description](#description)
@@ -19,7 +19,7 @@ Cpn-true Company Search was created in React.js enviroment. React provides fluen
 
 ## Setup
 
-To run the Cpn-true Company Search clone repository files to an empty chosen folder. Enter the folder via console (ex. 'Anaconda Prompt') and simply type `npm start`. 
+To run the Cpn-true Company Search clone repository files to an empty chosen folder. Enter the folder via console (ex. 'Anaconda Prompt') by comand `cd ./foldername`, where foldername is the name of your new created folder and simply type `npm start`. 
 
 ## Site
 
