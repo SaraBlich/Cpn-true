@@ -2,8 +2,6 @@ import React, {Component} from 'react';
 import SearchBar from './SearchBar.js';
 import CompanyRow from './CompanyRow.js';
 
-
-
 class FilteredCompanyTable extends Component {
   constructor() {
     super();
